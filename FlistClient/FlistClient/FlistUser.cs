@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace FlistClient
 {
-    interface FlistUser
+    public class FlistUser
     {
+        FlistUser()
+        {
 
+        }
     }
 }
