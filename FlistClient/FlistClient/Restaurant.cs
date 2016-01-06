@@ -8,7 +8,7 @@ namespace FlistClient
 {
     public class ImageManager
     {
-        private List<string> image_list;
+        private List<string> image_list = null; // FINISH
         public List<string> get_image_strings()
         {
             return image_list;
